@@ -9,7 +9,7 @@
 
 📢 **Ping Me About** Intricacies of mobile app structure, the art of UI/UX, native versus hybrid development
 
-<img src="https://github.com/devgaurangdevmurari/devgaurangdevmurari/blob/main/hsp-software-taxo.gif" height="200" align="right" alt="Computador" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
+<img src="https://github.com/devgaurangdevmurari/devgaurangdevmurari/blob/main/hsp-software-taxo.gif" height="180" align="right" alt="Computador" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
 
 
 # 💻 Tech Stack:
